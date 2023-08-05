@@ -6,3 +6,8 @@
 
 [Exam questions](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf)
 
+
+
+#### Additional resources
+
+https://rxhl.notion.site/AWS-Machine-Learning-Specialty-4c51dfb5ae1e476284e215305b7a5d5b
