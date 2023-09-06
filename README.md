@@ -11,3 +11,7 @@
 #### Additional resources
 
 https://rxhl.notion.site/AWS-Machine-Learning-Specialty-4c51dfb5ae1e476284e215305b7a5d5b
+
+#### Machine Learning 
+
+ML Zoomcamp - [Youtube](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master) - [GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master)
